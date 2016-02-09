@@ -8,7 +8,7 @@ var ReactDOM = require('react-dom');
 var message = React.createElement(
     'h1',                  //html tag
     {attribute : 'value'}, //object of attributes
-    'Hello World!'         //content
+    'Hello World!!'         //content
 ); 
 
 
